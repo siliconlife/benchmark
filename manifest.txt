@@ -1,0 +1,8 @@
+total 3576
+-rw-rw-r-- 1 application application 1946613 11月 12 21:07 bandwidth_v1.11.2d.tar.gz
+-rw-rw-r-- 1 application application  971586 11月 12 21:07 coremark_v1.01.tar.gz
+-rw-rw-r-- 1 application application   15048 11月 12 21:07 dhrystone_v2.1.tar.gz
+-rw-rw-r-- 1 application application  433858 11月 12 21:07 lmbench_v3.0_a9.tar.gz
+-rw-rw-r-- 1 application application       0 11月 13 00:37 manifest.txt
+-rw-rw-r-- 1 application application  135372 11月 12 21:07 stream_v5.10.tar.gz
+-rw-rw-r-- 1 application application  145481 11月 12 21:07 unixbench_v5.1.3.tar.gz
